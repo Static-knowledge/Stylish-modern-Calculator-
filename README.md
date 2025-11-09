@@ -35,3 +35,4 @@ git clone https://github.com/Static-knowledge/modern-calculator.git
 cd modern-calculator
 
 Day 1
+Day 2
