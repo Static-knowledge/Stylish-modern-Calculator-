@@ -33,3 +33,5 @@ Clone the repository and open the project locally:
 ```bash
 git clone https://github.com/Static-knowledge/modern-calculator.git
 cd modern-calculator
+
+Day 1
